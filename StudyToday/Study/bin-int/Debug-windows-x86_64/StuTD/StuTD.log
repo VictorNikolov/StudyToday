@@ -1,0 +1,6 @@
+﻿  game.cpp
+  main.cpp
+  questions.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  StuTD.vcxproj -> C:\Users\Виктор\StudyToday\StuTD\bin\Debug-windows-x86_64\StuTD\StuTD.exe
